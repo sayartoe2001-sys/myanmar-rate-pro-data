@@ -1,0 +1,37 @@
+name: Auto Update Myanmar Market Rates
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs automatically every 1 hour (24/7)
+  push:
+    paths:
+      - 'manual_override.json' # Runs immediately when you edit manual prices
+  workflow_dispatch: # Allows manual 1-click run from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-market-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Market Rate Bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node update_rates.mjs
+
+      - name: Commit and Push updated market_data.json
+        run: |
+          git config user.name "Myanmar Rate Pro Bot"
+          git config user.email "bot@myanitsolution.local"
+          git add market_data.json
+          git diff --staged --quiet || (git commit -m "chore: auto update market rates" && git push)
