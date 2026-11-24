@@ -1,0 +1,20 @@
+{
+  "useAutoUsd": true,
+  "usdSpreadMmk": 100,
+  "usdBuy": 5140,
+  "usdSell": 5240,
+  "announcementEn": "Live reference rates for Gold, Currency & Fuel in Myanmar.",
+  "announcementMm": "မြန်မာပြည်တွင်း ရွှေဈေး၊ ငွေလဲနှုန်းနှင့် စက်သုံးဆီဈေးနှုန်းများကို တစ်နေရာတည်းတွင် ကြည့်ရှုတွက်ချက်နိုင်ပါသည်။",
+  "myanmarGold": {
+    "gold_mm_16": { "buy": 10230000, "sell": 10330000 },
+    "gold_mm_15": { "buy": 9620000, "sell": 9720000 },
+    "gold_mm_new16": { "buy": 10060000, "sell": 10160000 },
+    "gold_mm_new15": { "buy": 9460000, "sell": 9560000 }
+  },
+  "yangonPetrol": {
+    "petrol_92": 3815,
+    "petrol_95": 3880,
+    "petrol_diesel": 4155,
+    "petrol_premium_diesel": 5040
+  }
+}
