@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Nov 27, 2026, 05:57 AM",
+  "lastUpdated": "Nov 27, 2026, 01:01 PM",
   "announcementEn": "Live reference rates for Gold, Currency & Fuel in Myanmar.",
   "announcementMm": "မြန်မာပြည်တွင်း ရွှေဈေး၊ ငွေလဲနှုန်းနှင့် စက်သုံးဆီဈေးနှုန်းများကို တစ်နေရာတည်းတွင် ကြည့်ရှုတွက်ချက်နိုင်ပါသည်။",
   "worldGold": [
@@ -11,18 +11,18 @@
       "unitMm": "၁ အောင်စ",
       "isWorldGold": true,
       "isNewSystem": false,
-      "buyPrice": 3563,
-      "sellPrice": 3563,
-      "changeBuy": -15.5,
-      "changeSell": -15.5,
+      "buyPrice": 3642.2,
+      "sellPrice": 3642.2,
+      "changeBuy": 63.7,
+      "changeSell": 63.7,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 3563,
-          "sell": 3563,
-          "changeBuy": -15.5,
-          "changeSell": -15.5
+          "timeLabel": "01:01 PM",
+          "buy": 3642.2,
+          "sell": 3642.2,
+          "changeBuy": 63.7,
+          "changeSell": 63.7
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -106,18 +106,18 @@
       "unitMm": "၁ ဂရမ်",
       "isWorldGold": true,
       "isNewSystem": false,
-      "buyPrice": 114.55,
-      "sellPrice": 114.55,
-      "changeBuy": -0.5,
-      "changeSell": -0.5,
+      "buyPrice": 117.1,
+      "sellPrice": 117.1,
+      "changeBuy": 2.05,
+      "changeSell": 2.05,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 114.55,
-          "sell": 114.55,
-          "changeBuy": -0.5,
-          "changeSell": -0.5
+          "timeLabel": "01:01 PM",
+          "buy": 117.1,
+          "sell": 117.1,
+          "changeBuy": 2.05,
+          "changeSell": 2.05
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -201,18 +201,18 @@
       "unitMm": "၁ ကျပ်သား",
       "isWorldGold": true,
       "isNewSystem": false,
-      "buyPrice": 1902.27,
-      "sellPrice": 1902.27,
-      "changeBuy": -8.27,
-      "changeSell": -8.27,
+      "buyPrice": 1944.55,
+      "sellPrice": 1944.55,
+      "changeBuy": 34.01,
+      "changeSell": 34.01,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 1902.27,
-          "sell": 1902.27,
-          "changeBuy": -8.27,
-          "changeSell": -8.27
+          "timeLabel": "01:01 PM",
+          "buy": 1944.55,
+          "sell": 1944.55,
+          "changeBuy": 34.01,
+          "changeSell": 34.01
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -305,7 +305,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 10230000,
           "sell": 10330000,
           "changeBuy": 0,
@@ -400,7 +400,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 9620000,
           "sell": 9720000,
           "changeBuy": 0,
@@ -495,7 +495,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 10060000,
           "sell": 10160000,
           "changeBuy": 0,
@@ -590,7 +590,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 9460000,
           "sell": 9560000,
           "changeBuy": 0,
@@ -686,7 +686,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 5140,
           "sell": 5240,
           "changeBuy": 0,
@@ -772,19 +772,19 @@
       "nameMm": "ထိုင်း ဘတ်",
       "symbol": "฿",
       "flag": "🇹🇭",
-      "buyPrice": 150.75,
-      "sellPrice": 153.68,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 150.98,
+      "sellPrice": 153.92,
+      "changeBuy": 0.23,
+      "changeSell": 0.24,
       "decimals": 2,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 150.75,
-          "sell": 153.68,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 150.98,
+          "sell": 153.92,
+          "changeBuy": 0.23,
+          "changeSell": 0.24
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -866,19 +866,19 @@
       "nameMm": "စင်ကာပူ ဒေါ်လာ",
       "symbol": "S$",
       "flag": "🇸🇬",
-      "buyPrice": 3982,
-      "sellPrice": 4059,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 3984,
+      "sellPrice": 4061,
+      "changeBuy": 2,
+      "changeSell": 2,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 3982,
-          "sell": 4059,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 3984,
+          "sell": 4061,
+          "changeBuy": 2,
+          "changeSell": 2
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -960,19 +960,19 @@
       "nameMm": "ယူရို",
       "symbol": "€",
       "flag": "🇪🇺",
-      "buyPrice": 5635,
-      "sellPrice": 5745,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 5640,
+      "sellPrice": 5750,
+      "changeBuy": 5,
+      "changeSell": 5,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 5635,
-          "sell": 5745,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 5640,
+          "sell": 5750,
+          "changeBuy": 5,
+          "changeSell": 5
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1054,19 +1054,19 @@
       "nameMm": "ဗြိတိန် ပေါင်",
       "symbol": "£",
       "flag": "🇬🇧",
-      "buyPrice": 6733,
-      "sellPrice": 6864,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 6736,
+      "sellPrice": 6867,
+      "changeBuy": 3,
+      "changeSell": 3,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 6733,
-          "sell": 6864,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 6736,
+          "sell": 6867,
+          "changeBuy": 3,
+          "changeSell": 3
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1148,19 +1148,19 @@
       "nameMm": "တရုတ် ယွမ်",
       "symbol": "¥",
       "flag": "🇨🇳",
-      "buyPrice": 769,
-      "sellPrice": 784,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 770,
+      "sellPrice": 785,
+      "changeBuy": 1,
+      "changeSell": 1,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 769,
-          "sell": 784,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 770,
+          "sell": 785,
+          "changeBuy": 1,
+          "changeSell": 1
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1243,18 +1243,18 @@
       "symbol": "RM",
       "flag": "🇲🇾",
       "buyPrice": 1248,
-      "sellPrice": 1272,
+      "sellPrice": 1273,
       "changeBuy": 0,
-      "changeSell": 0,
+      "changeSell": 1,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 1248,
-          "sell": 1272,
+          "sell": 1273,
           "changeBuy": 0,
-          "changeSell": 0
+          "changeSell": 1
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1336,19 +1336,19 @@
       "nameMm": "ဂျပန် ယန်း",
       "symbol": "¥",
       "flag": "🇯🇵",
-      "buyPrice": 32.29,
-      "sellPrice": 32.92,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 32.27,
+      "sellPrice": 32.9,
+      "changeBuy": -0.02,
+      "changeSell": -0.02,
       "decimals": 2,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 32.29,
-          "sell": 32.92,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 32.27,
+          "sell": 32.9,
+          "changeBuy": -0.02,
+          "changeSell": -0.02
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1438,7 +1438,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 3.82,
           "sell": 3.9,
           "changeBuy": 0,
@@ -1532,7 +1532,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 1400,
           "sell": 1427,
           "changeBuy": 0,
@@ -1618,19 +1618,19 @@
       "nameMm": "ထိုင်ဝမ် ဒေါ်လာ",
       "symbol": "NT$",
       "flag": "🇹🇼",
-      "buyPrice": 155,
-      "sellPrice": 158,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 156,
+      "sellPrice": 159,
+      "changeBuy": 1,
+      "changeSell": 1,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 155,
-          "sell": 158,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 156,
+          "sell": 159,
+          "changeBuy": 1,
+          "changeSell": 1
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1712,19 +1712,19 @@
       "nameMm": "ဩစတြေးလျ ဒေါ်လာ",
       "symbol": "A$",
       "flag": "🇦🇺",
-      "buyPrice": 3397,
-      "sellPrice": 3463,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 3410,
+      "sellPrice": 3476,
+      "changeBuy": 13,
+      "changeSell": 13,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 3397,
-          "sell": 3463,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 3410,
+          "sell": 3476,
+          "changeBuy": 13,
+          "changeSell": 13
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1806,19 +1806,19 @@
       "nameMm": "နယူးဇီလန် ဒေါ်လာ",
       "symbol": "NZ$",
       "flag": "🇳🇿",
-      "buyPrice": 2815,
-      "sellPrice": 2870,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 2813,
+      "sellPrice": 2868,
+      "changeBuy": -2,
+      "changeSell": -2,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 2815,
-          "sell": 2870,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 2813,
+          "sell": 2868,
+          "changeBuy": -2,
+          "changeSell": -2
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1900,19 +1900,19 @@
       "nameMm": "ကနေဒါ ဒေါ်လာ",
       "symbol": "CA$",
       "flag": "🇨🇦",
-      "buyPrice": 3612,
-      "sellPrice": 3683,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 3609,
+      "sellPrice": 3680,
+      "changeBuy": -3,
+      "changeSell": -3,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 3612,
-          "sell": 3683,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 3609,
+          "sell": 3680,
+          "changeBuy": -3,
+          "changeSell": -3
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -1995,18 +1995,18 @@
       "symbol": "HK$",
       "flag": "🇭🇰",
       "buyPrice": 656,
-      "sellPrice": 668,
+      "sellPrice": 669,
       "changeBuy": 0,
-      "changeSell": 0,
+      "changeSell": 1,
       "decimals": 0,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 656,
-          "sell": 668,
+          "sell": 669,
           "changeBuy": 0,
-          "changeSell": 0
+          "changeSell": 1
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -2088,19 +2088,19 @@
       "nameMm": "အိန္ဒိယ ရူပီး",
       "symbol": "₹",
       "flag": "🇮🇳",
-      "buyPrice": 55.66,
-      "sellPrice": 56.74,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 55.56,
+      "sellPrice": 56.64,
+      "changeBuy": -0.1,
+      "changeSell": -0.1,
       "decimals": 2,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 55.66,
-          "sell": 56.74,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 55.56,
+          "sell": 56.64,
+          "changeBuy": -0.1,
+          "changeSell": -0.1
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -2190,7 +2190,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 637,
           "sell": 649,
           "changeBuy": 0,
@@ -2284,7 +2284,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 0.2,
           "sell": 0.2,
           "changeBuy": 0,
@@ -2378,7 +2378,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 0.23,
           "sell": 0.23,
           "changeBuy": 0,
@@ -2472,7 +2472,7 @@
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
+          "timeLabel": "01:01 PM",
           "buy": 1.26,
           "sell": 1.29,
           "changeBuy": 0,
@@ -2558,19 +2558,19 @@
       "nameMm": "ဖိလစ်ပိုင် ပီဆို",
       "symbol": "₱",
       "flag": "🇵🇭",
-      "buyPrice": 80.73,
-      "sellPrice": 82.3,
-      "changeBuy": 0,
-      "changeSell": 0,
+      "buyPrice": 80.59,
+      "sellPrice": 82.16,
+      "changeBuy": -0.14,
+      "changeSell": -0.14,
       "decimals": 2,
       "history": [
         {
           "dateLabel": "Nov 27, 2026",
-          "timeLabel": "05:57 AM",
-          "buy": 80.73,
-          "sell": 82.3,
-          "changeBuy": 0,
-          "changeSell": 0
+          "timeLabel": "01:01 PM",
+          "buy": 80.59,
+          "sell": 82.16,
+          "changeBuy": -0.14,
+          "changeSell": -0.14
         },
         {
           "dateLabel": "Nov 26, 2026",
@@ -2662,7 +2662,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3815,
               "sell": 3815,
               "changeBuy": 0,
@@ -2751,7 +2751,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3880,
               "sell": 3880,
               "changeBuy": 0,
@@ -2840,7 +2840,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4155,
               "sell": 4155,
               "changeBuy": 0,
@@ -2929,7 +2929,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5040,
               "sell": 5040,
               "changeBuy": 0,
@@ -3025,7 +3025,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3880,
               "sell": 3880,
               "changeBuy": 0,
@@ -3114,7 +3114,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3945,
               "sell": 3945,
               "changeBuy": 0,
@@ -3203,7 +3203,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4220,
               "sell": 4220,
               "changeBuy": 0,
@@ -3292,7 +3292,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5105,
               "sell": 5105,
               "changeBuy": 0,
@@ -3388,7 +3388,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3870,
               "sell": 3870,
               "changeBuy": 0,
@@ -3477,7 +3477,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3935,
               "sell": 3935,
               "changeBuy": 0,
@@ -3566,7 +3566,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4210,
               "sell": 4210,
               "changeBuy": 0,
@@ -3655,7 +3655,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5095,
               "sell": 5095,
               "changeBuy": 0,
@@ -3751,7 +3751,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3830,
               "sell": 3830,
               "changeBuy": 0,
@@ -3840,7 +3840,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3895,
               "sell": 3895,
               "changeBuy": 0,
@@ -3929,7 +3929,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4170,
               "sell": 4170,
               "changeBuy": 0,
@@ -4018,7 +4018,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5055,
               "sell": 5055,
               "changeBuy": 0,
@@ -4114,7 +4114,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3850,
               "sell": 3850,
               "changeBuy": 0,
@@ -4203,7 +4203,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3915,
               "sell": 3915,
               "changeBuy": 0,
@@ -4292,7 +4292,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4190,
               "sell": 4190,
               "changeBuy": 0,
@@ -4381,7 +4381,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5075,
               "sell": 5075,
               "changeBuy": 0,
@@ -4477,7 +4477,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3860,
               "sell": 3860,
               "changeBuy": 0,
@@ -4566,7 +4566,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3925,
               "sell": 3925,
               "changeBuy": 0,
@@ -4655,7 +4655,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4200,
               "sell": 4200,
               "changeBuy": 0,
@@ -4744,7 +4744,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5085,
               "sell": 5085,
               "changeBuy": 0,
@@ -4840,7 +4840,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3895,
               "sell": 3895,
               "changeBuy": 0,
@@ -4929,7 +4929,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3960,
               "sell": 3960,
               "changeBuy": 0,
@@ -5018,7 +5018,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4235,
               "sell": 4235,
               "changeBuy": 0,
@@ -5107,7 +5107,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5120,
               "sell": 5120,
               "changeBuy": 0,
@@ -5203,7 +5203,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3890,
               "sell": 3890,
               "changeBuy": 0,
@@ -5292,7 +5292,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3955,
               "sell": 3955,
               "changeBuy": 0,
@@ -5381,7 +5381,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4230,
               "sell": 4230,
               "changeBuy": 0,
@@ -5470,7 +5470,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5115,
               "sell": 5115,
               "changeBuy": 0,
@@ -5566,7 +5566,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3925,
               "sell": 3925,
               "changeBuy": 0,
@@ -5655,7 +5655,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3990,
               "sell": 3990,
               "changeBuy": 0,
@@ -5744,7 +5744,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4265,
               "sell": 4265,
               "changeBuy": 0,
@@ -5833,7 +5833,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5150,
               "sell": 5150,
               "changeBuy": 0,
@@ -5929,7 +5929,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3875,
               "sell": 3875,
               "changeBuy": 0,
@@ -6018,7 +6018,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3940,
               "sell": 3940,
               "changeBuy": 0,
@@ -6107,7 +6107,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4215,
               "sell": 4215,
               "changeBuy": 0,
@@ -6196,7 +6196,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5100,
               "sell": 5100,
               "changeBuy": 0,
@@ -6292,7 +6292,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3960,
               "sell": 3960,
               "changeBuy": 0,
@@ -6381,7 +6381,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4025,
               "sell": 4025,
               "changeBuy": 0,
@@ -6470,7 +6470,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4300,
               "sell": 4300,
               "changeBuy": 0,
@@ -6559,7 +6559,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5185,
               "sell": 5185,
               "changeBuy": 0,
@@ -6655,7 +6655,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3945,
               "sell": 3945,
               "changeBuy": 0,
@@ -6744,7 +6744,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4010,
               "sell": 4010,
               "changeBuy": 0,
@@ -6833,7 +6833,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4285,
               "sell": 4285,
               "changeBuy": 0,
@@ -6922,7 +6922,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5170,
               "sell": 5170,
               "changeBuy": 0,
@@ -7018,7 +7018,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3910,
               "sell": 3910,
               "changeBuy": 0,
@@ -7107,7 +7107,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3975,
               "sell": 3975,
               "changeBuy": 0,
@@ -7196,7 +7196,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4250,
               "sell": 4250,
               "changeBuy": 0,
@@ -7285,7 +7285,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5135,
               "sell": 5135,
               "changeBuy": 0,
@@ -7381,7 +7381,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3935,
               "sell": 3935,
               "changeBuy": 0,
@@ -7470,7 +7470,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4000,
               "sell": 4000,
               "changeBuy": 0,
@@ -7559,7 +7559,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4275,
               "sell": 4275,
               "changeBuy": 0,
@@ -7648,7 +7648,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5160,
               "sell": 5160,
               "changeBuy": 0,
@@ -7744,7 +7744,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 3975,
               "sell": 3975,
               "changeBuy": 0,
@@ -7833,7 +7833,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4040,
               "sell": 4040,
               "changeBuy": 0,
@@ -7922,7 +7922,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 4315,
               "sell": 4315,
               "changeBuy": 0,
@@ -8011,7 +8011,7 @@
           "history": [
             {
               "dateLabel": "Nov 27, 2026",
-              "timeLabel": "05:57 AM",
+              "timeLabel": "01:01 PM",
               "buy": 5200,
               "sell": 5200,
               "changeBuy": 0,
